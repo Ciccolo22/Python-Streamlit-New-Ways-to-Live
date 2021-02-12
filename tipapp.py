@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 from pycaret.regression import load_model, predict_model
 import numpy as np
-import seaborn as sns
-sns.load_dataset("tips")
 
 def predict(model, input_df):
     predictions_df = predict_model(estimator=model, data=input_df)
