@@ -17,7 +17,7 @@ def trend():
     return df
 
 
-checkbox = st.checkbox('Click me to find out what is trending!!')
+checkbox = st.checkbox('Click me to find out what is trending on google!!')
 
 
 if checkbox:
