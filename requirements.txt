@@ -1,0 +1,4 @@
+streamlit==0.67.1
+pandas==1.2.2
+matplotlib==3.3.4
+pytrends==4.7.3
