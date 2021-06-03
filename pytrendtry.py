@@ -9,7 +9,6 @@ from pytrends.request import TrendReq
 import matplotlib
 import time
 
-@st.cache
 def trend():
     pytrend = TrendReq()
     df = pytrend.trending_searches(pn='united_states')
