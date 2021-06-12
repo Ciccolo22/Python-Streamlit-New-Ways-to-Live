@@ -1,0 +1,7 @@
+numpy==1.20.1
+streamlit==0.67.1
+seaborn==0.11.1
+pycaret==2.2.3
+statsmodels==0.12.2
+pandas==1.2.2
+Pillow==8.2.0
