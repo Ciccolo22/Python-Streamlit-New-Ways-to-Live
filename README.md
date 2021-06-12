@@ -8,3 +8,6 @@ Using this repo to demo/prototype some python tools, starting with streamlit.
 https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/secondapp/statstry.py 
 
 #mickies.py is a simple data exploratory app comparing mcdonalds breakfast items across a number of nutritional metrics. 
+
+#pytrends.py quick app to find out whats trending on google
+https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/pytrendtry.py 
