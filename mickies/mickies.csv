@@ -1,0 +1,261 @@
+Category,Item,Calories / Serving Size,Calories From Fat / Serving Size,Total Fat (g),Total Fat (% Daily Value),Saturated Fat,Saturated Fat (% Daily Value),Trans Fat,Cholesterol,Cholesterol (% Daily Value),Sodium,Sodium (% Daily Value),Carbohydrates,Carbohydrates (% Daily Value),Dietary Fiber,Dietary Fiber (% Daily Value),Sugars / Serving (g),Protein / Serving Size,Vitamin A (% Daily Value),Vitamin C (% Daily Value),Calcium (% Daily Value),Iron (% Daily Value)
+Breakfast,Egg McMuffin,62.5,25,13,20,5,25,0,260,87,750,31,31,10,4,17,0.625,3.5,10,0,25,15
+Breakfast,Egg White Delight,52.08333333,14.58333333,8,12,3,15,0,25,8,770,32,30,10,4,17,0.625,3.8,6,0,25,8
+Breakfast,Sausage McMuffin,94.87179487,51.28205128,23,35,8,42,0,45,15,780,33,29,10,4,17,0.512820513,3.6,8,0,25,10
+Breakfast,Sausage McMuffin with Egg,78.94736842,43.85964912,28,43,10,52,0,285,95,860,36,30,10,4,17,0.350877193,3.7,15,0,30,15
+Breakfast,Sausage McMuffin with Egg Whites,70.1754386,36.84210526,23,35,8,42,0,50,16,880,37,30,10,4,17,0.350877193,3.7,6,0,25,10
+Breakfast,Steak & Egg McMuffin,66.15384615,32.30769231,23,36,9,46,1,300,100,960,40,31,10,4,18,0.461538462,4,15,2,30,20
+Breakfast,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",86.79245283,43.39622642,26,40,13,65,0,250,83,1300,54,38,13,2,7,0.566037736,3.6,10,8,15,15
+Breakfast,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",89.65517241,46.55172414,30,47,14,68,0,250,83,1410,59,43,14,3,12,0.689655172,3.3,15,8,20,20
+Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",75.92592593,33.33333333,20,32,11,56,0,35,11,1300,54,36,12,2,7,0.555555556,3.7,2,8,15,10
+Breakfast,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",79.66101695,37.28813559,25,38,12,59,0,35,11,1420,59,42,14,3,12,0.677966102,3.4,6,8,15,15
+Breakfast,Sausage Biscuit (Regular Biscuit),104.8780488,58.53658537,27,42,12,62,0,30,10,1080,45,34,11,2,6,0.487804878,2.7,0,0,6,15
+Breakfast,Sausage Biscuit (Large Biscuit),104.3478261,60.86956522,31,48,13,65,0,30,10,1190,50,39,13,3,11,0.652173913,2.4,4,0,8,15
+Breakfast,Sausage Biscuit with Egg (Regular Biscuit),89.47368421,50.87719298,33,50,14,71,0,250,83,1170,49,36,12,2,6,0.350877193,3.2,6,0,10,20
+Breakfast,Sausage Biscuit with Egg (Large Biscuit),91.93548387,53.22580645,37,57,15,74,0,250,83,1280,53,42,14,3,11,0.483870968,2.9,10,0,10,20
+Breakfast,Sausage Biscuit with Egg Whites (Regular Biscuit),77.96610169,42.37288136,27,42,12,62,0,35,11,1180,49,34,11,2,6,0.508474576,3.1,0,0,8,15
+Breakfast,Sausage Biscuit with Egg Whites (Large Biscuit),81.25,43.75,32,49,13,65,0,35,11,1290,54,40,13,3,11,0.46875,2.8,4,0,8,15
+Breakfast,Southern Style Chicken Biscuit (Regular Biscuit),82,36,20,31,8,41,0,30,10,1180,49,41,14,2,6,0.6,3.4,0,2,6,15
+Breakfast,Southern Style Chicken Biscuit (Large Biscuit),85.45454545,40,24,37,9,45,0,30,10,1290,54,46,15,3,11,0.727272727,3.1,4,2,8,15
+Breakfast,Steak & Egg Biscuit (Regular Biscuit),76.05633803,40.84507042,32,49,16,78,1,280,93,1470,61,38,13,2,8,0.422535211,3.5,10,2,20,25
+Breakfast,"Bacon, Egg & Cheese McGriddles",75.40983607,31.14754098,21,32,9,44,0,250,84,1250,52,48,16,2,9,2.459016393,3.1,10,10,20,15
+Breakfast,"Bacon, Egg & Cheese McGriddles with Egg Whites",63.49206349,22.22222222,15,24,7,34,0,35,11,1250,52,47,16,2,9,2.53968254,3.2,2,10,15,10
+Breakfast,Sausage McGriddles,84,40,22,34,8,40,0,35,11,1030,43,44,15,2,8,3,2.2,0,0,8,10
+Breakfast,"Sausage, Egg & Cheese McGriddles",77.46478873,39.43661972,31,48,12,61,0,265,89,1320,55,48,16,2,9,2.112676056,2.8,10,0,20,15
+Breakfast,"Sausage, Egg & Cheese McGriddles with Egg Whites",69.44444444,31.94444444,26,40,10,52,0,50,17,1320,55,46,15,2,9,2.083333333,2.9,2,0,20,10
+Breakfast,"Bacon, Egg & Cheese Bagel",89.85507246,40.57971014,31,48,11,56,0.5,275,92,1480,62,57,19,3,11,1.014492754,4.3,20,15,20,20
+Breakfast,"Bacon, Egg & Cheese Bagel with Egg Whites",80.28169014,32.3943662,25,39,9,45,0.5,60,20,1480,62,55,18,3,12,1.126760563,4.2,10,15,20,15
+Breakfast,"Steak, Egg & Cheese Bagel",78.82352941,36.47058824,35,53,13,63,1.5,295,99,1510,63,56,19,3,12,0.823529412,3.9,20,4,25,25
+Breakfast,Big Breakfast (Regular Biscuit),77.89473684,45.26315789,48,73,17,87,0,555,185,1560,65,51,17,3,12,0.315789474,2.9,15,2,15,25
+Breakfast,Big Breakfast (Large Biscuit),80,47,52,80,18,90,0,555,185,1680,70,56,19,4,17,0.3,2.8,15,2,15,30
+Breakfast,Big Breakfast with Egg Whites (Regular Biscuit),66.66666667,34.375,37,57,14,69,0,35,12,1590,66,50,17,3,12,0.3125,2.7,0,2,10,15
+Breakfast,Big Breakfast with Egg Whites (Large Biscuit),69,37,41,63,14,72,0,35,12,1700,71,55,18,4,17,0.4,2.6,4,2,10,15
+Breakfast,Big Breakfast with Hotcakes (Regular Biscuit),77.85714286,36.42857143,56,87,19,96,0,575,192,2150,90,111,37,6,23,1.214285714,2.6,15,2,25,40
+Breakfast,Big Breakfast with Hotcakes (Large Biscuit),76.66666667,36,60,93,20,100,0,575,192,2260,94,116,39,7,28,1.133333333,2.4,15,2,30,40
+Breakfast,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),70.71428571,29.28571429,46,70,16,78,0,55,19,2170,91,110,37,6,23,1.214285714,2.5,0,2,25,30
+Breakfast,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),70,30,50,77,16,81,0,55,19,2290,95,115,38,7,28,1.2,2.3,4,2,25,30
+Breakfast,Hotcakes,66.03773585,15.09433962,9,13,2,9,0,20,7,590,24,60,20,3,10,2.641509434,1.5,0,0,15,15
+Breakfast,Hotcakes and Sausage,76.47058824,30.88235294,24,37,7,36,0,50,17,930,39,61,20,3,10,2.058823529,2.2,0,0,15,15
+Breakfast,Sausage Burrito,76.92307692,38.46153846,16,25,7,33,0,115,38,790,33,26,9,1,5,0.512820513,3.1,10,2,15,15
+Breakfast,Hash Brown,75,40,9,14,1.5,6,0,0,0,310,13,15,5,2,6,0,0.5,0,2,0,2
+Breakfast,Cinnamon Melts,115,42.5,19,30,9,43,0,15,5,370,15,66,22,3,11,8,1.5,4,0,6,15
+Breakfast,Fruit & Maple Oatmeal,30.20833333,3.645833333,4,6,1.5,8,0,5,2,160,7,58,19,5,19,3.333333333,0.5,2,130,10,10
+Breakfast,Fruit & Maple Oatmeal without Brown Sugar,27.08333333,4.166666667,4,6,1.5,8,0,5,2,115,5,49,16,5,22,1.875,0.5,2,130,6,10
+Lunch,Big Mac,71.62162162,32.43243243,27,42,10,48,1,85,28,960,40,47,16,3,13,1.216216216,3.2,6,2,25,25
+Lunch,Quarter Pounder with Cheese,73.23943662,33.8028169,26,41,12,61,1.5,95,31,1100,46,41,14,3,11,1.408450704,4.2,10,2,30,25
+Lunch,Quarter Pounder with Bacon & Cheese,75,32.5,29,45,13,63,1.5,105,34,1440,60,48,16,3,12,1.5,4.6,6,15,25,30
+Lunch,Quarter Pounder with Bacon Habanero Ranch,73.4939759,33.73493976,31,48,13,64,1.5,105,35,1180,49,46,15,3,14,1.204819277,4.5,8,20,25,30
+Lunch,Quarter Pounder Deluxe,62.79069767,29.06976744,27,42,11,54,1.5,85,28,960,40,45,15,3,13,1.046511628,3.4,10,8,25,30
+Lunch,Double Quarter Pounder with Cheese,75,38,43,66,19,96,2.5,160,53,1280,53,42,14,3,11,1,4.8,10,2,30,35
+Lunch,Hamburger,68.57142857,20,8,12,3,15,0,30,10,480,20,32,11,1,6,1.714285714,3.4,2,2,10,15
+Lunch,Cheeseburger,72.5,25,11,18,5,27,0.5,45,15,680,28,33,11,2,7,1.75,3.8,6,2,20,15
+Lunch,Double Cheeseburger,75.43859649,33.33333333,21,32,10,52,1,90,30,1040,43,35,12,2,8,1.228070175,4.2,10,2,30,20
+Lunch,Bacon Clubhouse Burger,75.78947368,37.89473684,40,62,15,75,1.5,115,38,1470,61,51,17,4,14,1.473684211,4.1,8,25,30,25
+Lunch,McDouble,73.07692308,28.84615385,17,26,8,40,1,75,25,840,35,34,11,2,7,1.346153846,4.2,6,2,20,20
+Lunch,Bacon McDouble,77.19298246,35.0877193,22,34,10,49,1,90,30,1110,46,35,12,2,7,1.228070175,4.7,6,10,20,20
+Lunch,Daily Double,64.17910448,29.85074627,22,35,9,44,1,80,27,760,32,34,11,2,8,1.044776119,3.3,8,8,20,20
+Lunch,Jalapeño Double,76.78571429,37.5,23,36,9,44,1,80,27,1030,43,35,12,2,7,1.071428571,3.9,6,8,20,20
+Lunch,McRib,68.49315068,32.87671233,26,40,10,48,0,70,23,980,41,44,15,3,10,1.506849315,3,2,2,15,20
+Lunch,Premium Crispy Chicken Classic Sandwich,68,26.66666667,22,33,3.5,18,0,45,16,990,41,55,18,3,13,1.333333333,3.2,4,6,15,20
+Lunch,Premium Grilled Chicken Classic Sandwich,50,11.42857143,9,13,2,9,0,65,22,820,34,42,14,3,13,1.142857143,4,4,8,15,20
+Lunch,Premium Crispy Chicken Club Sandwich,76.13636364,34.09090909,33,51,9,44,0,85,29,1410,59,58,19,3,14,1.25,4.1,8,20,30,20
+Lunch,Premium Grilled Chicken Club Sandwich,61.44578313,21.68674699,20,31,7,36,0,105,35,1250,52,44,15,3,13,1.084337349,4.8,8,20,30,20
+Lunch,Premium Crispy Chicken Ranch BLT Sandwich,75.30864198,30.86419753,28,43,6,31,0,70,24,1400,58,57,19,3,13,1.358024691,4,4,20,15,20
+Lunch,Premium Grilled Chicken Ranch BLT Sandwich,59.21052632,17.10526316,15,23,4.5,22,0,90,30,1230,51,43,14,3,13,1.184210526,4.7,4,20,15,20
+Lunch,Bacon Clubhouse Crispy Chicken Sandwich,75,34,38,59,10,51,0.5,90,31,1720,72,65,22,4,15,1.6,3.6,8,25,30,15
+Lunch,Bacon Clubhouse Grilled Chicken Sandwich,62.10526316,24.21052632,25,39,8,42,0,110,37,1560,65,51,17,4,15,1.473684211,4.2,8,30,30,15
+Lunch,Southern Style Crispy Chicken Sandwich,76.78571429,30.35714286,19,29,3,15,0,45,14,910,38,43,14,2,7,1.25,3.8,4,2,15,15
+Lunch,McChicken,70.58823529,27.45098039,16,25,3,15,0,35,11,800,33,40,13,2,7,0.980392157,2.7,0,2,10,15
+Lunch,Bacon Cheddar McChicken,80,36.66666667,24,38,7,35,0,65,21,1260,53,43,14,2,8,1,3.7,4,10,20,15
+Lunch,Bacon Buffalo Ranch McChicken,75.43859649,33.33333333,21,32,5,25,0,50,17,1260,53,41,14,2,7,1.052631579,3.5,2,10,15,15
+Lunch,Buffalo Ranch McChicken,69.23076923,28.84615385,16,25,3,16,0,35,11,990,41,40,13,2,7,0.961538462,2.7,2,2,15,15
+Lunch,Premium McWrap Chicken & Bacon (Crispy Chicken),56.75675676,25.22522523,32,49,9,45,0.5,80,26,1540,64,56,19,3,13,0.630630631,2.9,60,20,20,20
+Lunch,Premium McWrap Chicken & Bacon (Grilled Chicken),44.85981308,15.88785047,19,28,7,36,0,95,32,1370,57,42,14,3,13,0.560747664,3.4,60,25,20,20
+Lunch,Premium McWrap Chicken & Ranch (Crispy Chicken),55.96330275,25.68807339,31,47,8,40,0.5,65,21,1340,56,56,19,3,14,0.733944954,2.5,60,15,20,20
+Lunch,Premium McWrap Chicken & Ranch (Grilled Chicken),42.85714286,15.23809524,18,27,6,31,0.5,80,27,1170,49,42,14,3,14,0.571428571,2.9,60,15,15,20
+Lunch,Premium McWrap Southwest Chicken (Crispy Chicken),60.36036036,27.02702703,33,51,8,40,0.5,60,21,1480,62,68,23,5,19,1.081081081,2.4,60,15,20,20
+Lunch,Premium McWrap Southwest Chicken (Grilled Chicken),46.42857143,16.07142857,20,31,6,32,0,80,27,1320,55,55,18,5,20,0.892857143,2.8,70,15,20,20
+Lunch,Premium McWrap Chicken Sweet Chili (Crispy Chicken),50.46728972,18.69158879,23,35,4.5,23,0,50,16,1260,52,61,20,3,13,1.308411215,2.1,60,15,8,20
+Lunch,Premium McWrap Chicken Sweet Chili (Grilled Chicken),36.89320388,8.737864078,10,15,3,14,0,65,22,1090,45,47,16,3,13,1.165048544,2.6,60,15,8,20
+Lunch,Chicken McNuggets (4 piece),82.60869565,47.82608696,12,18,2,10,0,25,9,360,15,12,4,1,2,0,3.9,0,2,0,2
+Lunch,Chicken McNuggets (6 piece),82.35294118,47.05882353,18,27,3,15,0,40,13,540,22,18,6,1,4,0,3.8,0,2,2,4
+Lunch,Chicken McNuggets (10 piece),82.45614035,47.36842105,30,45,5,25,0,65,22,900,37,30,10,2,6,0,3.9,0,4,2,6
+Lunch,Chicken McNuggets (20 piece),85.45454545,48.18181818,59,91,10,50,0,135,44,1800,75,59,20,3,12,0,4,0,8,4,10
+Lunch,Chicken McNuggets (40 piece),85.45454545,48.18181818,118,182,20,101,1,265,89,3600,150,118,39,6,24,0.045454545,4,0,15,8,25
+Lunch,Filet-O-Fish,78,34,19,29,4,19,0,40,14,590,24,39,13,2,7,1,3,2,0,15,10
+Lunch,Premium Bacon Ranch Salad (without Chicken),17.72151899,8.860759494,7,11,3.5,18,0,25,9,300,13,10,3,3,12,0.506329114,1.1,170,30,15,6
+Lunch,Premium Bacon Ranch Salad with Crispy Chicken,42.22222222,21.11111111,21,33,6,29,0,70,23,860,36,22,7,2,10,0.555555556,2.8,100,25,15,8
+Lunch,Premium Bacon Ranch Salad with Grilled Chicken,25.88235294,9.411764706,8,13,4,20,0,85,29,690,29,8,3,2,10,0.470588235,3.4,110,30,15,8
+Lunch,Premium Southwest Salad (without Chicken),17.28395062,4.938271605,4.5,7,2,9,0,10,3,150,6,20,7,6,23,0.740740741,0.7,160,25,15,10
+Lunch,Premium Southwest Salad with Crispy Chicken,36.58536585,15.44715447,22,33,4.5,22,0,50,17,850,35,42,14,7,28,0.975609756,1.9,170,30,15,15
+Lunch,Premium Southwest Salad with Grilled Chicken,24.57627119,6.779661017,8,13,2.5,13,0,70,23,680,28,28,9,7,28,0.847457627,2.3,170,30,15,15
+Lunch,Chipotle BBQ Snack Wrap (Crispy Chicken),73.91304348,28.26086957,15,23,4.5,22,0,30,11,780,33,37,12,1,6,1.739130435,3,4,0,10,10
+Lunch,Chipotle BBQ Snack Wrap (Grilled Chicken),60.46511628,16.27906977,8,13,3.5,18,0,40,14,700,29,30,10,1,6,1.627906977,3.7,4,2,10,10
+Lunch,Honey Mustard Snack Wrap (Crispy Chicken),76.74418605,30.23255814,15,23,4.5,22,0,35,11,730,30,34,11,1,5,0.697674419,3.3,2,0,10,10
+Lunch,Honey Mustard Snack Wrap (Grilled Chicken),60.97560976,17.07317073,8,13,3.5,18,0,45,14,650,27,27,9,1,5,0.487804878,3.9,2,2,10,10
+Lunch,Ranch Snack Wrap (Crispy Chicken),80,40,20,30,5,27,0,40,13,810,34,32,11,1,5,0.666666667,3.3,2,0,10,10
+Lunch,Ranch Snack Wrap (Grilled Chicken),65.11627907,27.90697674,13,20,4.5,22,0,45,16,720,30,25,8,1,5,0.465116279,3.7,2,2,10,10
+Lunch,Small French Fries,88.46153846,38.46153846,11,17,1.5,8,0,0,0,130,5,30,10,2,10,0,0.8,0,30,0,4
+Lunch,Medium French Fries,87.17948718,35.8974359,16,24,2.5,11,0,0,0,190,8,44,15,4,14,0,1,0,45,2,4
+Lunch,Large French Fries,86.44067797,37.28813559,24,37,3.5,17,0,0,0,290,12,67,22,5,22,0,1,0,70,2,8
+Lunch,Kids French Fries,84.61538462,38.46153846,5,8,1,4,0,0,0,65,3,15,5,1,5,0,0.8,0,15,0,2
+Lunch,Side Salad,6.451612903,0,0,0,0,0,0,0,0,10,0,4,1,1,6,0.64516129,0.3,45,25,2,4
+Lunch,Apple Slices,12.5,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2.5,0,0,160,2,0
+Lunch,Fruit 'n Yogurt Parfait,28.84615385,3.846153846,2,3,1,5,0,5,2,70,3,30,10,1,3,4.423076923,0.8,2,15,10,4
+Lunch,Baked Apple Pie,92.59259259,40.74074074,13,19,7,35,0,0,0,170,7,32,11,4,15,4.814814815,0.7,4,25,2,6
+Lunch,Chocolate Chip Cookie,160,70,8,12,3.5,19,0,10,3,90,4,21,7,1,3,15,2,2,0,2,8
+Lunch,Oatmeal Raisin Cookie,150,50,6,9,2.5,13,0,10,3,135,6,22,7,1,3,13,2,2,0,2,6
+Lunch,Kids Ice Cream Cone,45,10,1.5,2,1,4,0,5,2,20,1,7,2,0,0,6,1,2,0,4,0
+Lunch,Hot Fudge Sundae,52.38095238,12.6984127,9,14,7,34,0,25,8,170,7,53,18,1,3,7.619047619,1.3,8,0,25,8
+Lunch,Hot Caramel Sundae,53.125,10.9375,8,12,5,24,0,30,10,150,6,60,20,0,0,6.71875,1.1,10,0,25,0
+Lunch,Strawberry Sundae,44.44444444,9.523809524,6,10,4,20,0,25,8,85,4,49,16,0,0,7.142857143,1,8,4,20,0
+Beverages,Coca-Cola Classic (Small),8.75,0,0,0,0,0,0,0,0,0,0,39,13,0,0,2.4375,0,0,0,0,0
+Beverages,Coca-Cola Classic (Medium),9.523809524,0,0,0,0,0,0,0,0,5,0,55,18,0,0,2.619047619,0,0,0,0,0
+Beverages,Coca-Cola Classic (Large),9.333333333,0,0,0,0,0,0,0,0,5,0,76,25,0,0,2.533333333,0,0,0,0,0
+Beverages,Coca-Cola Classic (Child),8.333333333,0,0,0,0,0,0,0,0,0,0,28,9,0,0,2.333333333,0,0,0,0,0
+Beverages,Diet Coke (Small),0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Diet Coke (Medium),0,0,0,0,0,0,0,0,0,20,1,0,0,0,0,0,0,0,0,0,0
+Beverages,Diet Coke (Large),0,0,0,0,0,0,0,0,0,35,1,0,0,0,0,0,0,0,0,0,0
+Beverages,Diet Coke (Child),0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,0,0,0,0,0,0
+Beverages,Dr Pepper (Small),8.75,0,0,0,0,0,0,0,0,45,2,37,12,0,0,2.1875,0,0,0,0,0
+Beverages,Dr Pepper (Medium),9.047619048,0,0,0,0,0,0,0,0,65,3,53,18,0,0,2.428571429,0,0,0,0,0
+Beverages,Dr Pepper (Large),9,0,0,0,0,0,0,0,0,90,4,72,24,0,0,2.333333333,0,0,0,0,0
+Beverages,Dr Pepper (Child),8.333333333,0,0,0,0,0,0,0,0,30,1,27,9,0,0,2.166666667,0,0,0,0,0
+Beverages,Diet Dr Pepper (Small),0,0,0,0,0,0,0,0,0,70,3,0,0,0,0,0,0.1,0,0,0,0
+Beverages,Diet Dr Pepper (Medium),0,0,0,0,0,0,0,0,0,100,4,0,0,0,0,0,0.1,0,0,0,0
+Beverages,Diet Dr Pepper (Large),0,0,0,0,0,0,0,0,0,140,6,0,0,0,0,0,0.1,0,0,0,0
+Beverages,Diet Dr Pepper (Child),0,0,0,0,0,0,0,0,0,50,2,0,0,0,0,0,0.1,0,0,0,0
+Beverages,Sprite (Small),8.75,0,0,0,0,0,0,0,0,30,1,37,12,0,0,2.3125,0,0,0,0,0
+Beverages,Sprite (Medium),9.523809524,0,0,0,0,0,0,0,0,45,2,54,18,0,0,2.571428571,0,0,0,0,0
+Beverages,Sprite (Large),9.333333333,0,0,0,0,0,0,0,0,60,3,74,25,0,0,2.466666667,0,0,0,0,0
+Beverages,Sprite (Child),8.333333333,0,0,0,0,0,0,0,0,25,1,27,9,0,0,2.25,0,0,0,0,0
+Beverages,1% Low Fat Milk Jug,100,20,2.5,4,1.5,8,0,10,3,125,5,12,4,0,0,12,8,10,4,30,0
+Beverages,Fat Free Chocolate Milk Jug,130,0,0,0,0,0,0,5,2,135,6,23,8,1,2,22,9,10,0,30,8
+Beverages,Minute Maid 100% Apple Juice Box,13.33333333,0,0,0,0,0,0,0,0,15,1,21,7,0,0,3.166666667,0,0,100,10,0
+Beverages,Minute Maid Orange Juice (Small),12.5,0,0,0,0,0,0,0,0,0,0,34,11,0,0,2.5,0.2,0,130,2,0
+Beverages,Minute Maid Orange Juice (Medium),11.875,0,0,0,0,0,0,0,0,0,0,44,15,0,0,2.4375,0.2,0,160,4,0
+Beverages,Minute Maid Orange Juice (Large),12.72727273,0,0,0,0,0,0,0,0,5,0,65,22,0,0,2.636363636,0.2,0,240,4,0
+Beverages,Dasani Water Bottle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Iced Tea (Small),0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Iced Tea (Medium),0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Iced Tea (Large),0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,0,0,0,0,0,0
+Beverages,Iced Tea (Child),0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Sweet Tea (Small),9.375,0,0,0,0,0,0,0,0,10,0,36,12,0,0,2.25,0.1,0,0,0,0
+Beverages,Sweet Tea (Medium),8.571428571,0,0,0,0,0,0,0,0,10,0,45,15,0,0,2.142857143,0,0,0,0,0
+Beverages,Sweet Tea (Large),7.333333333,0,0,0,0,0,0,0,0,10,1,54,18,0,0,1.8,0,0,0,0,0
+Beverages,Sweet Tea (Child),9.166666667,0,0,0,0,0,0,0,0,5,0,27,9,0,0,2.25,0,0,0,0,0
+Beverages,Coffee (Small),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Coffee (Medium),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Coffee (Large),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beverages,Latte (Small),14.16666667,6.666666667,9,13,5,24,0,25,9,115,5,15,5,1,3,1,0.8,8,0,30,0
+Beverages,Latte (Medium),13.125,5.625,10,16,6,30,0,30,11,140,6,18,6,1,4,0.9375,0.7,10,0,35,0
+Beverages,Latte (Large),14,6,14,21,8,39,0,40,14,180,8,24,8,1,6,1,0.8,15,0,50,2
+Beverages,Caramel Latte (Small),22.5,6.666666667,9,13,5,24,0,25,9,115,5,40,13,1,3,3.166666667,0.8,8,0,30,0
+Beverages,Caramel Latte (Medium),21.25,5.625,10,16,6,30,0,30,11,140,6,50,17,1,4,3,0.7,10,0,35,0
+Beverages,Caramel Latte (Large),21.5,6,14,21,8,39,0,40,14,180,8,62,21,1,6,2.95,0.8,15,0,50,2
+Beverages,Hazelnut Latte (Small),22.5,6.666666667,9,13,5,24,0,25,9,115,5,40,13,1,3,3.166666667,0.8,8,0,30,0
+Beverages,Hazelnut Latte (Medium),20.625,5.625,10,16,6,30,0,30,11,140,6,50,17,1,4,2.9375,0.7,10,0,35,0
+Beverages,Hazelnut Latte (Large),21.5,6,14,21,8,39,0,40,14,180,8,62,21,1,6,2.9,0.8,15,0,50,2
+Beverages,French Vanilla Latte (Small),21.66666667,6.666666667,9,13,5,24,0,25,9,115,5,38,13,1,3,3,0.8,8,0,30,0
+Beverages,French Vanilla Latte (Medium),20.625,5.625,10,16,6,30,0,30,11,140,6,48,16,1,4,2.8125,0.7,10,0,35,2
+Beverages,French Vanilla Latte (Large),21,6,14,21,8,39,0,40,14,190,8,60,20,1,6,2.8,0.8,15,0,50,2
+Beverages,Latte with Sugar Free French Vanilla Syrup (Small),17.5,6.666666667,9,13,5,24,0,25,9,150,6,24,8,1,4,1,0.8,8,0,30,0
+Beverages,Latte with Sugar Free French Vanilla Syrup (Medium),16.25,5.625,10,16,6,30,0,30,11,190,8,29,10,1,5,0.9375,0.8,10,0,35,0
+Beverages,Latte with Sugar Free French Vanilla Syrup (Large),16.5,6,14,21,8,39,0,40,14,240,10,37,12,2,7,1,0.8,15,0,50,2
+Beverages,Nonfat Latte (Small),8.333333333,0,0,0,0,0,0,5,2,110,5,15,5,1,3,1.083333333,0.8,10,0,30,0
+Beverages,Nonfat Latte (Medium),8.125,0,0,0,0,0,0,5,2,135,6,19,6,1,4,1,0.8,15,0,40,0
+Beverages,Nonfat Latte (Large),8.5,0,0.5,1,0,0,0,10,3,180,7,25,8,1,6,1.05,0.8,15,0,50,2
+Beverages,Nonfat Caramel Latte (Small),16.66666667,0,0,0,0,0,0,5,2,110,5,41,14,1,3,3.25,0.8,10,0,30,0
+Beverages,Nonfat Caramel Latte (Medium),15.625,0,0,0,0,0,0,5,2,135,6,51,17,1,4,3,0.8,15,0,40,0
+Beverages,Nonfat Caramel Latte (Large),15.5,0,0.5,1,0,0,0,10,3,180,7,63,21,1,6,2.95,0.8,15,0,50,2
+Beverages,Nonfat Hazelnut Latte (Small),16.66666667,0,0,0,0,0,0,5,2,110,5,40,13,1,3,3.166666667,0.8,10,0,30,0
+Beverages,Nonfat Hazelnut Latte (Medium),15.625,0,0,0,0,0,0,5,2,135,6,51,17,1,4,3,0.8,15,0,40,0
+Beverages,Nonfat Hazelnut Latte (Large),15.5,0,0.5,1,0,0,0,10,3,180,7,63,21,1,6,2.95,0.8,15,0,50,2
+Beverages,Nonfat French Vanilla Latte (Small),15.83333333,0,0,0,0,0,0,5,2,115,5,39,13,1,3,3.083333333,0.8,10,0,30,0
+Beverages,Nonfat French Vanilla Latte (Medium),15,0,0,0,0,0,0,5,2,140,6,49,16,1,4,2.875,0.8,15,0,40,2
+Beverages,Nonfat French Vanilla Latte (Large),15,0,0.5,1,0,0,0,10,3,180,8,60,20,1,6,2.8,0.8,15,0,50,2
+Beverages,Nonfat Latte with Sugar Free French Vanilla Syrup (Small),11.66666667,0,0,0,0,0,0,5,2,150,6,24,8,1,4,1.083333333,0.8,10,0,30,0
+Beverages,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),10.625,0,0,0,0,0,0,5,2,180,8,30,10,1,5,1,0.8,15,0,40,0
+Beverages,Nonfat Latte with Sugar Free French Vanilla Syrup (Large),11,0,0.5,1,0,0,0,10,3,240,10,38,13,2,7,1.05,0.8,15,0,50,2
+Beverages,Mocha (Small),28.33333333,8.333333333,11,18,7,34,0,35,12,150,6,49,16,2,6,3.5,0.8,10,0,30,6
+Beverages,Mocha (Medium),25.625,7.5,14,21,8,40,0,40,14,190,8,60,20,2,8,3.3125,0.8,10,0,40,6
+Beverages,Mocha (Large),25,7.5,17,26,10,49,0.5,50,17,240,10,72,24,2,10,3.15,0.8,15,0,50,8
+Beverages,Mocha with Nonfat Milk (Small),22.5,2.5,3.5,5,2,11,0,15,5,150,6,49,16,2,6,3.583333333,0.9,10,0,35,6
+Beverages,Mocha with Nonfat Milk (Medium),20.625,1.875,3.5,6,2,11,0,15,5,190,8,60,20,2,8,3.3125,0.8,15,0,40,6
+Beverages,Mocha with Nonfat Milk (Large),19.5,1.75,4,6,2.5,12,0,20,6,240,10,73,24,2,10,3.2,0.9,20,0,50,8
+Beverages,Caramel Mocha (Small),26.66666667,8.333333333,11,17,7,33,0,35,12,170,7,45,15,1,3,3.333333333,0.8,10,0,30,2
+Beverages,Caramel Mocha (Medium),24.375,7.5,14,21,8,40,0.5,40,14,220,9,55,18,1,4,3.125,0.8,15,0,40,2
+Beverages,Caramel Mocha (Large),24,7.5,17,26,10,49,0.5,50,17,270,11,66,22,1,5,3,0.8,15,0,50,4
+Beverages,Nonfat Caramel Mocha (Small),20.83333333,2.5,3.5,5,2,10,0,15,5,170,7,45,15,1,3,3.416666667,0.8,10,0,35,2
+Beverages,Nonfat Caramel Mocha (Medium),19.375,1.875,3.5,5,2,11,0,15,5,210,9,56,19,1,4,3.1875,0.8,15,0,40,2
+Beverages,Nonfat Caramel Mocha (Large),18.5,1.75,3.5,6,2.5,11,0,20,6,270,11,67,22,1,5,3.05,0.9,20,0,50,4
+Beverages,Hot Chocolate (Small),30,10,13,21,8,39,0,40,14,180,8,50,17,1,3,3.75,0.9,10,0,40,6
+Beverages,Hot Chocolate (Medium),27.5,8.75,16,25,9,47,0.5,50,16,220,9,61,20,1,4,3.5,0.9,15,0,45,6
+Beverages,Hot Chocolate (Large),27,9,20,31,12,58,0.5,60,20,280,12,73,24,1,5,3.4,0.9,20,0,60,8
+Beverages,Hot Chocolate with Nonfat Milk (Small),23.33333333,2.5,3.5,5,2,11,0,15,5,180,7,50,17,1,3,3.833333333,1,15,0,40,6
+Beverages,Hot Chocolate with Nonfat Milk (Medium),21.25,1.875,3.5,5,2,11,0,15,6,220,9,61,20,1,4,3.5625,0.9,20,0,50,6
+Beverages,Hot Chocolate with Nonfat Milk (Large),20,1.75,3.5,6,2.5,12,0,20,7,280,12,74,25,1,5,3.45,1,25,0,60,8
+Beverages,Regular Iced Coffee (Small),8.75,2.5,4.5,7,3,15,0,15,6,35,1,23,8,0,0,1.375,0.1,4,0,4,0
+Beverages,Regular Iced Coffee (Medium),8.636363636,2.727272727,7,11,4.5,22,0,25,9,50,2,31,10,0,0,1.363636364,0,4,0,4,0
+Beverages,Regular Iced Coffee (Large),8.4375,2.5,9,14,6,29,0,35,12,75,3,47,16,0,0,1.40625,0.1,6,0,8,0
+Beverages,Caramel Iced Coffee (Small),8.125,2.5,4.5,7,3,15,0,15,6,35,2,22,7,0,0,1.3125,0.1,4,0,4,0
+Beverages,Caramel Iced Coffee (Medium),8.181818182,2.727272727,7,11,4.5,22,0,25,9,50,2,29,10,0,0,1.272727273,0,4,0,4,0
+Beverages,Caramel Iced Coffee (Large),8.125,2.5,9,14,6,29,0,35,12,65,3,43,14,0,0,1.3125,0.1,6,0,6,0
+Beverages,Hazelnut Iced Coffee (Small),8.125,2.5,4.5,7,3,15,0,15,6,35,1,21,7,0,0,1.25,0.1,4,0,4,0
+Beverages,Hazelnut Iced Coffee (Medium),8.181818182,2.727272727,7,11,4.5,22,0,25,9,50,2,29,10,0,0,1.272727273,0,4,0,4,0
+Beverages,Hazelnut Iced Coffee (Large),7.8125,2.5,9,14,6,29,0,35,12,75,3,43,14,0,0,1.28125,0.1,6,0,8,0
+Beverages,French Vanilla Iced Coffee (Small),7.5,2.5,4.5,7,3,15,0,15,6,40,2,20,7,0,0,1.1875,0.1,4,0,4,0
+Beverages,French Vanilla Iced Coffee (Medium),7.727272727,2.727272727,7,11,4.5,22,0,25,9,55,2,27,9,0,0,1.181818182,0,4,0,4,0
+Beverages,French Vanilla Iced Coffee (Large),7.5,2.5,9,14,6,29,0,35,12,80,3,41,14,0,0,1.21875,0.1,6,0,8,0
+Beverages,Iced Coffee with Sugar Free French Vanilla Syrup (Small),5,2.5,4.5,7,3,15,0,15,6,65,3,9,3,0,0,0.0625,0.1,4,0,4,0
+Beverages,Iced Coffee with Sugar Free French Vanilla Syrup (Medium),5.454545455,2.727272727,7,11,4.5,22,0,25,9,90,4,12,4,0,0,0.090909091,0,4,0,4,0
+Beverages,Iced Coffee with Sugar Free French Vanilla Syrup (Large),5,2.5,9,14,6,29,0,35,12,135,6,18,6,0,0,0.0625,0.1,6,0,8,0
+Beverages,Iced Mocha (Small),24.16666667,8.333333333,11,17,7,33,0,35,12,125,5,41,14,1,4,2.833333333,0.7,10,0,25,4
+Beverages,Iced Mocha (Medium),21.875,6.875,13,19,8,38,0,40,13,150,6,50,17,1,5,2.6875,0.6,10,0,30,6
+Beverages,Iced Mocha (Large),21.81818182,6.818181818,16,25,10,49,0.5,50,17,220,9,70,23,2,8,2.818181818,0.6,15,0,40,8
+Beverages,Iced Mocha with Nonfat Milk (Small),20,3.75,5,8,3,16,0,20,7,125,5,41,14,1,4,2.916666667,0.7,10,0,25,4
+Beverages,Iced Mocha with Nonfat Milk (Medium),18.125,2.8125,5,8,3.5,17,0,20,7,150,6,50,17,1,5,2.6875,0.6,15,0,30,6
+Beverages,Iced Mocha with Nonfat Milk (Large),17.72727273,2.272727273,6,9,3.5,18,0,25,8,220,9,71,24,2,8,2.818181818,0.6,20,0,45,8
+Beverages,Iced Caramel Mocha (Small),23.33333333,8.333333333,11,17,7,33,0,35,12,140,6,38,13,0,0,2.75,0.7,10,0,25,2
+Beverages,Iced Caramel Mocha (Medium),21.25,6.875,13,19,7,37,0,40,13,170,7,46,15,1,2,2.5625,0.6,10,0,30,2
+Beverages,Iced Caramel Mocha (Large),20.90909091,6.818181818,16,25,10,48,0.5,50,17,250,10,65,22,1,3,2.681818182,0.6,15,0,40,4
+Beverages,Iced Nonfat Caramel Mocha (Small),19.16666667,3.75,5,8,3,16,0,20,7,140,6,38,13,0,0,2.75,0.7,10,0,25,2
+Beverages,Iced Nonfat Caramel Mocha (Medium),16.875,2.8125,5,8,3,16,0,20,7,170,7,47,16,1,2,2.5625,0.6,15,0,30,2
+Beverages,Iced Nonfat Caramel Mocha (Large),16.81818182,2.272727273,6,8,3.5,17,0,25,8,250,10,65,22,1,3,2.681818182,0.6,20,0,45,4
+Beverages,Frappé Mocha (Small),37.5,13.33333333,18,28,12,59,1,65,21,125,5,65,22,1,3,4.75,0.6,15,0,20,4
+Beverages,Frappé Mocha (Medium),34.375,12.5,22,34,14,71,1,75,25,160,7,80,27,1,4,4.4375,0.6,15,0,25,4
+Beverages,Frappé Mocha (Large),30.45454545,10.90909091,26,41,17,85,1,90,30,190,8,98,33,1,4,4,0.5,20,0,35,4
+Beverages,Frappé Caramel (Small),37.5,14.16666667,19,29,12,60,1,65,22,125,5,64,21,0,0,4.75,0.6,15,0,25,2
+Beverages,Frappé Caramel (Medium),34.375,12.5,23,35,15,73,1,80,27,160,7,79,26,0,0,4.4375,0.6,20,0,30,2
+Beverages,Frappé Caramel (Large),30.45454545,11.36363636,27,42,17,87,1.5,95,32,190,8,96,32,0,0,4,0.5,20,0,35,2
+Beverages,Frappé Chocolate Chip (Small),44.16666667,16.66666667,23,35,14,72,1,65,22,135,6,76,25,1,5,5.583333333,0.7,15,0,25,4
+Beverages,Frappé Chocolate Chip (Medium),39.375,15,26,41,17,85,1,80,26,160,7,91,30,1,5,5.0625,0.6,15,0,30,4
+Beverages,Frappé Chocolate Chip (Large),34.54545455,12.72727273,31,48,20,101,1.5,95,32,200,8,111,37,1,5,4.5,0.5,20,0,35,6
+Beverages,Blueberry Pomegranate Smoothie (Small),18.33333333,0.416666667,0.5,1,0,0,0,5,1,40,2,50,17,3,12,3.666666667,0.2,0,2,6,2
+Beverages,Blueberry Pomegranate Smoothie (Medium),16.25,0.3125,1,1,0,0,0,5,1,50,2,62,21,4,15,3.375,0.2,0,4,8,2
+Beverages,Blueberry Pomegranate Smoothie (Large),15.45454545,0.454545455,1,2,0.5,3,0,5,2,65,3,79,26,5,19,3.181818182,0.2,0,4,10,2
+Beverages,Strawberry Banana Smoothie (Small),17.5,0.416666667,0.5,1,0,0,0,5,1,50,2,47,16,3,10,3.666666667,0.3,0,30,8,2
+Beverages,Strawberry Banana Smoothie (Medium),15.625,0.3125,1,1,0,0,0,5,1,60,2,58,19,3,13,3.375,0.3,0,35,8,4
+Beverages,Strawberry Banana Smoothie (Large),15,0.454545455,1,2,0.5,3,0,5,2,80,3,74,25,4,16,3.181818182,0.2,0,45,10,4
+Beverages,Mango Pineapple Smoothie (Small),17.5,0.416666667,0.5,1,0,0,0,5,1,40,2,50,17,1,4,3.833333333,0.2,30,20,8,2
+Beverages,Mango Pineapple Smoothie (Medium),16.25,0.625,1,1,0,0,0,5,1,45,2,61,20,1,5,3.5,0.2,40,25,8,2
+Beverages,Mango Pineapple Smoothie (Large),15.45454545,0.454545455,1,2,0.5,3,0,5,2,60,3,78,26,2,6,3.272727273,0.2,50,30,10,2
+Beverages,Vanilla Shake (Small),44.16666667,11.66666667,15,24,10,49,1,60,20,160,7,86,29,0,0,5.25,0.9,20,0,40,0
+Beverages,Vanilla Shake (Medium),41.25,10.625,19,29,12,61,1,75,24,200,9,109,36,0,0,5.0625,0.9,25,0,50,0
+Beverages,Vanilla Shake (Large),37.27272727,9.545454545,23,35,15,73,1,90,29,260,11,135,45,0,0,4.590909091,0.8,30,0,60,0
+Beverages,Strawberry Shake (Small),45.83333333,12.5,16,25,10,52,1,60,21,160,7,90,30,0,0,6.583333333,1,20,0,40,0
+Beverages,Strawberry Shake (Medium),43.125,11.25,20,30,13,63,1,75,25,210,9,114,38,0,0,6.25,0.9,25,0,50,0
+Beverages,Strawberry Shake (Large),38.63636364,9.545454545,24,36,15,75,1,90,30,260,11,140,47,0,0,5.590909091,0.8,30,0,70,0
+Beverages,Chocolate Shake (Small),46.66666667,12.5,16,25,10,51,1,60,20,240,10,91,30,1,5,6.416666667,1,20,0,40,8
+Beverages,Chocolate Shake (Medium),43.75,11.25,20,30,12,62,1,75,24,300,13,114,38,2,6,6.0625,0.9,25,0,50,10
+Beverages,Chocolate Shake (Large),38.63636364,9.545454545,23,36,15,74,1,85,29,380,16,141,47,2,8,5.454545455,0.9,30,0,60,15
+Beverages,Shamrock Shake (Medium),41.25,10.625,19,29,12,61,1,75,24,210,9,109,36,0,0,5.8125,0.9,25,0,50,0
+Beverages,Shamrock Shake (Large),37.27272727,9.545454545,23,35,15,73,1,90,29,260,11,135,45,0,0,5.227272727,0.8,30,0,60,0
+Lunch,McFlurry with M&M’s Candies (Small),65,21,23,35,14,72,0.5,50,17,180,7,96,32,1,6,8.9,1.3,15,0,45,8
+Lunch,McFlurry with M&M’s Candies (Medium),58.125,18.125,33,50,20,102,1,75,25,260,11,139,46,2,7,8,1.3,25,0,70,10
+Lunch,McFlurry with M&M’s Candies (Snack),58.90410959,19.17808219,15,24,10,48,0,35,11,120,5,64,21,1,4,8.082191781,1.2,10,0,30,4
+Lunch,McFlurry with Oreo Cookies (Small),51,15,17,26,9,44,0.5,45,14,280,12,80,27,1,4,6.4,1.2,15,0,40,8
+Lunch,McFlurry with Oreo Cookies (Medium),53.07692308,15.38461538,23,35,12,58,1,55,19,380,16,106,35,1,5,6.538461538,1.2,20,0,50,10
+Lunch,McFlurry with Oreo Cookies (Snack),50.74626866,14.92537313,11,17,6,29,0,30,9,190,8,53,18,1,2,6.417910448,1.2,10,0,25,6
+Lunch,McFlurry with Reese's Peanut Butter Cups (Medium),57.85714286,20.71428571,32,50,15,76,1,60,20,400,17,114,38,2,9,7.357142857,1.5,20,0,60,6
+Lunch,McFlurry with Reese's Peanut Butter Cups (Snack),57.74647887,21.12676056,16,25,8,38,0,30,10,200,8,57,19,1,5,7.183098592,1.4,10,0,30,4
