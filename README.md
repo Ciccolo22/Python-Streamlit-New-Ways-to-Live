@@ -7,7 +7,7 @@ Using this repo to demo/prototype some python tools, starting with streamlit.
 #statstry.py uses the statsmodel.api to create a multiple regression model for predictions... model summary statistics are also generated in streamlit app....
 https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/secondapp/statstry.py 
 
-#mickies.py is a simple data exploratory app comparing mcdonalds breakfast items across a number of nutritional metrics. 
+#mickies.py is a simple data exploratory app comparing mcdonalds breakfast items across a number of nutritional metrics. https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/mickies/mickies.py
 
 #pytrends.py quick app to find out whats trending on google
 https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/pytrendtry.py 
