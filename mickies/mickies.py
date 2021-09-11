@@ -16,7 +16,7 @@ if name:
 st.sidebar.subheader("menu item")
 
 item_selection = st.sidebar.selectbox(
-"Please select an item", Items)
+"Please select an item","", Items)
 
 
 metric_selection = st.sidebar.selectbox(
