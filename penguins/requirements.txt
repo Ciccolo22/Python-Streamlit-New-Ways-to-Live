@@ -1,5 +1,0 @@
-pandas==1.3.5
-streamlit==1.12.0
-numpy==1.21.6
-pycaret_ts_alpha==3.0.0.dev1649017462
-pycaret==2.3.10
