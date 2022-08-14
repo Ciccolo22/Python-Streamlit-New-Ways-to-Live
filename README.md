@@ -12,3 +12,7 @@ https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/mick
 
 ##### pytrends.py quick app to find out whats trending on google
 https://share.streamlit.io/ciccolo22/python-streamlit-new-ways-to-live/main/pytrendtry.py 
+
+
+##### penguins.py streamlit app used as a classification model test case (inspired by data professor and pycaret documentation)
+https://ciccolo22-python-streamlit-new-ways-to--penguinspenguins-g524v3.streamlitapp.com/ 
